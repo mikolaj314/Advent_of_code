@@ -21,7 +21,7 @@ class Decoder:
         'six': '6',
         'seven': '7n',
         'eight': 'e8t',
-        'nine': '9e',
+        'nine': 'n9e',
     }
     DIGIT_SEARCH_PATTERN = re.compile(r'\D*(\d)\D*(?:.*(\d))?\D*')
 
